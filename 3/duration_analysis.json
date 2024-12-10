@@ -1,0 +1,415 @@
+[
+    {
+        "genre": "Dance/Electronic",
+        "sum_duration": 9884788,
+        "min_duration": 150400,
+        "max_duration": 452906,
+        "avg_duration": 241092.39024390245
+    },
+    {
+        "genre": "Folk/Acoustic, pop",
+        "sum_duration": 479181,
+        "min_duration": 237493,
+        "max_duration": 241688,
+        "avg_duration": 239590.5
+    },
+    {
+        "genre": "Folk/Acoustic, rock",
+        "sum_duration": 278666,
+        "min_duration": 278666,
+        "max_duration": 278666,
+        "avg_duration": 278666.0
+    },
+    {
+        "genre": "Folk/Acoustic, rock, pop",
+        "sum_duration": 245173,
+        "min_duration": 245173,
+        "max_duration": 245173,
+        "avg_duration": 245173.0
+    },
+    {
+        "genre": "R&B",
+        "sum_duration": 2961882,
+        "min_duration": 198346,
+        "max_duration": 284733,
+        "avg_duration": 227837.07692307694
+    },
+    {
+        "genre": "World/Traditional, Folk/Acoustic",
+        "sum_duration": 218546,
+        "min_duration": 218546,
+        "max_duration": 218546,
+        "avg_duration": 218546.0
+    },
+    {
+        "genre": "World/Traditional, hip hop",
+        "sum_duration": 484747,
+        "min_duration": 240081,
+        "max_duration": 244666,
+        "avg_duration": 242373.5
+    },
+    {
+        "genre": "World/Traditional, pop",
+        "sum_duration": 151640,
+        "min_duration": 151640,
+        "max_duration": 151640,
+        "avg_duration": 151640.0
+    },
+    {
+        "genre": "World/Traditional, pop, Folk/Acoustic",
+        "sum_duration": 374079,
+        "min_duration": 172373,
+        "max_duration": 201706,
+        "avg_duration": 187039.5
+    },
+    {
+        "genre": "World/Traditional, rock",
+        "sum_duration": 498600,
+        "min_duration": 193520,
+        "max_duration": 305080,
+        "avg_duration": 249300.0
+    },
+    {
+        "genre": "World/Traditional, rock, pop",
+        "sum_duration": 463026,
+        "min_duration": 189693,
+        "max_duration": 273333,
+        "avg_duration": 231513.0
+    },
+    {
+        "genre": "country",
+        "sum_duration": 2233278,
+        "min_duration": 204200,
+        "max_duration": 276773,
+        "avg_duration": 223327.8
+    },
+    {
+        "genre": "country, latin",
+        "sum_duration": 166866,
+        "min_duration": 166866,
+        "max_duration": 166866,
+        "avg_duration": 166866.0
+    },
+    {
+        "genre": "easy listening",
+        "sum_duration": 302146,
+        "min_duration": 302146,
+        "max_duration": 302146,
+        "avg_duration": 302146.0
+    },
+    {
+        "genre": "hip hop",
+        "sum_duration": 28483510,
+        "min_duration": 119133,
+        "max_duration": 404106,
+        "avg_duration": 229705.7258064516
+    },
+    {
+        "genre": "hip hop, Dance/Electronic",
+        "sum_duration": 3852822,
+        "min_duration": 170480,
+        "max_duration": 353893,
+        "avg_duration": 240801.375
+    },
+    {
+        "genre": "hip hop, R&B",
+        "sum_duration": 728372,
+        "min_duration": 177466,
+        "max_duration": 348893,
+        "avg_duration": 242790.66666666666
+    },
+    {
+        "genre": "hip hop, country",
+        "sum_duration": 200593,
+        "min_duration": 200593,
+        "max_duration": 200593,
+        "avg_duration": 200593.0
+    },
+    {
+        "genre": "hip hop, latin, Dance/Electronic",
+        "sum_duration": 256971,
+        "min_duration": 256971,
+        "max_duration": 256971,
+        "avg_duration": 256971.0
+    },
+    {
+        "genre": "hip hop, pop",
+        "sum_duration": 65423074,
+        "min_duration": 113000,
+        "max_duration": 343150,
+        "avg_duration": 236184.38267148015
+    },
+    {
+        "genre": "hip hop, pop, Dance/Electronic",
+        "sum_duration": 16673962,
+        "min_duration": 166138,
+        "max_duration": 333680,
+        "avg_duration": 213768.7435897436
+    },
+    {
+        "genre": "hip hop, pop, R&B",
+        "sum_duration": 58575032,
+        "min_duration": 126446,
+        "max_duration": 359973,
+        "avg_duration": 240061.60655737706
+    },
+    {
+        "genre": "hip hop, pop, R&B, Dance/Electronic",
+        "sum_duration": 722159,
+        "min_duration": 220053,
+        "max_duration": 275106,
+        "avg_duration": 240719.66666666666
+    },
+    {
+        "genre": "hip hop, pop, R&B, latin",
+        "sum_duration": 697972,
+        "min_duration": 219920,
+        "max_duration": 239026,
+        "avg_duration": 232657.33333333334
+    },
+    {
+        "genre": "hip hop, pop, country",
+        "sum_duration": 252653,
+        "min_duration": 252653,
+        "max_duration": 252653,
+        "avg_duration": 252653.0
+    },
+    {
+        "genre": "hip hop, pop, latin",
+        "sum_duration": 3302343,
+        "min_duration": 204160,
+        "max_duration": 276106,
+        "avg_duration": 235881.64285714287
+    },
+    {
+        "genre": "hip hop, pop, rock",
+        "sum_duration": 2103743,
+        "min_duration": 192440,
+        "max_duration": 304506,
+        "avg_duration": 233749.22222222222
+    },
+    {
+        "genre": "hip hop, rock, pop",
+        "sum_duration": 390400,
+        "min_duration": 195200,
+        "max_duration": 195200,
+        "avg_duration": 195200.0
+    },
+    {
+        "genre": "latin",
+        "sum_duration": 3394961,
+        "min_duration": 172854,
+        "max_duration": 417920,
+        "avg_duration": 226330.73333333334
+    },
+    {
+        "genre": "metal",
+        "sum_duration": 2192625,
+        "min_duration": 200480,
+        "max_duration": 321040,
+        "avg_duration": 243625.0
+    },
+    {
+        "genre": "pop",
+        "sum_duration": 96349808,
+        "min_duration": 148186,
+        "max_duration": 484146,
+        "avg_duration": 225116.3738317757
+    },
+    {
+        "genre": "pop, Dance/Electronic",
+        "sum_duration": 46401061,
+        "min_duration": 131064,
+        "max_duration": 352173,
+        "avg_duration": 209959.5520361991
+    },
+    {
+        "genre": "pop, Folk/Acoustic",
+        "sum_duration": 1708829,
+        "min_duration": 160097,
+        "max_duration": 269400,
+        "avg_duration": 213603.625
+    },
+    {
+        "genre": "pop, R&B",
+        "sum_duration": 42731243,
+        "min_duration": 184906,
+        "max_duration": 366733,
+        "avg_duration": 240063.16292134832
+    },
+    {
+        "genre": "pop, R&B, Dance/Electronic",
+        "sum_duration": 1317051,
+        "min_duration": 182626,
+        "max_duration": 273973,
+        "avg_duration": 219508.5
+    },
+    {
+        "genre": "pop, R&B, easy listening",
+        "sum_duration": 250106,
+        "min_duration": 250106,
+        "max_duration": 250106,
+        "avg_duration": 250106.0
+    },
+    {
+        "genre": "pop, country",
+        "sum_duration": 1813357,
+        "min_duration": 199946,
+        "max_duration": 250546,
+        "avg_duration": 226669.625
+    },
+    {
+        "genre": "pop, easy listening, Dance/Electronic",
+        "sum_duration": 219240,
+        "min_duration": 219240,
+        "max_duration": 219240,
+        "avg_duration": 219240.0
+    },
+    {
+        "genre": "pop, easy listening, jazz",
+        "sum_duration": 449626,
+        "min_duration": 197160,
+        "max_duration": 252466,
+        "avg_duration": 224813.0
+    },
+    {
+        "genre": "pop, latin",
+        "sum_duration": 6267665,
+        "min_duration": 173720,
+        "max_duration": 347106,
+        "avg_duration": 223845.17857142858
+    },
+    {
+        "genre": "pop, rock",
+        "sum_duration": 5762374,
+        "min_duration": 170493,
+        "max_duration": 302760,
+        "avg_duration": 221629.76923076922
+    },
+    {
+        "genre": "pop, rock, Dance/Electronic",
+        "sum_duration": 3005712,
+        "min_duration": 171226,
+        "max_duration": 310573,
+        "avg_duration": 231208.61538461538
+    },
+    {
+        "genre": "pop, rock, Folk/Acoustic",
+        "sum_duration": 484613,
+        "min_duration": 218013,
+        "max_duration": 266600,
+        "avg_duration": 242306.5
+    },
+    {
+        "genre": "pop, rock, metal",
+        "sum_duration": 3495064,
+        "min_duration": 215173,
+        "max_duration": 316733,
+        "avg_duration": 249647.42857142858
+    },
+    {
+        "genre": "rock",
+        "sum_duration": 12811588,
+        "min_duration": 127920,
+        "max_duration": 334666,
+        "avg_duration": 220889.44827586206
+    },
+    {
+        "genre": "rock, Dance/Electronic",
+        "sum_duration": 200053,
+        "min_duration": 200053,
+        "max_duration": 200053,
+        "avg_duration": 200053.0
+    },
+    {
+        "genre": "rock, Folk/Acoustic, easy listening",
+        "sum_duration": 211893,
+        "min_duration": 211893,
+        "max_duration": 211893,
+        "avg_duration": 211893.0
+    },
+    {
+        "genre": "rock, Folk/Acoustic, pop",
+        "sum_duration": 203653,
+        "min_duration": 203653,
+        "max_duration": 203653,
+        "avg_duration": 203653.0
+    },
+    {
+        "genre": "rock, R&B, Folk/Acoustic, pop",
+        "sum_duration": 199040,
+        "min_duration": 199040,
+        "max_duration": 199040,
+        "avg_duration": 199040.0
+    },
+    {
+        "genre": "rock, blues",
+        "sum_duration": 494160,
+        "min_duration": 231920,
+        "max_duration": 262240,
+        "avg_duration": 247080.0
+    },
+    {
+        "genre": "rock, blues, latin",
+        "sum_duration": 484413,
+        "min_duration": 222440,
+        "max_duration": 261973,
+        "avg_duration": 242206.5
+    },
+    {
+        "genre": "rock, classical",
+        "sum_duration": 219560,
+        "min_duration": 219560,
+        "max_duration": 219560,
+        "avg_duration": 219560.0
+    },
+    {
+        "genre": "rock, easy listening",
+        "sum_duration": 211506,
+        "min_duration": 211506,
+        "max_duration": 211506,
+        "avg_duration": 211506.0
+    },
+    {
+        "genre": "rock, metal",
+        "sum_duration": 8623889,
+        "min_duration": 162600,
+        "max_duration": 303920,
+        "avg_duration": 226944.44736842104
+    },
+    {
+        "genre": "rock, pop",
+        "sum_duration": 10142950,
+        "min_duration": 165853,
+        "max_duration": 307879,
+        "avg_duration": 235882.55813953487
+    },
+    {
+        "genre": "rock, pop, Dance/Electronic",
+        "sum_duration": 1629188,
+        "min_duration": 169353,
+        "max_duration": 225882,
+        "avg_duration": 203648.5
+    },
+    {
+        "genre": "rock, pop, metal",
+        "sum_duration": 861398,
+        "min_duration": 177826,
+        "max_duration": 268693,
+        "avg_duration": 215349.5
+    },
+    {
+        "genre": "rock, pop, metal, Dance/Electronic",
+        "sum_duration": 243960,
+        "min_duration": 243960,
+        "max_duration": 243960,
+        "avg_duration": 243960.0
+    },
+    {
+        "genre": "set()",
+        "sum_duration": 4709439,
+        "min_duration": 144244,
+        "max_duration": 313684,
+        "avg_duration": 214065.4090909091
+    }
+]
