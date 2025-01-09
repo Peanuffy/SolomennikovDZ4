@@ -142,6 +142,5 @@ for filename, data in output_files.items():
 
 conn.close()
 
-print("Результаты сохранены в файлы:")
 for filename in output_files:
     print(filename)
