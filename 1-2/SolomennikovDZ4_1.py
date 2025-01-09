@@ -2,8 +2,8 @@ import sqlite3
 import pandas as pd
 import json
 
-VAR = 25
-LIMIT = VAR + 10
+
+LIMIT = 25 + 10
 
 pkl_file_path = "item.pkl"
 
@@ -111,6 +111,5 @@ for filename, data in output_files.items():
 
 conn.close()
 
-print("Результаты сохранены в файлы:")
 for filename in output_files:
     print(filename)
